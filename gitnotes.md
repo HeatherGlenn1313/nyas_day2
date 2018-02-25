@@ -15,7 +15,9 @@ $$ f(x) = x^2$$
 * `git add`: adds files to be tracked
 * `git commit`: dedicate myself to a version
 * `git commit -m "message"`: dedicates to a version, with a message
+* `git diff`: shows changes not yet tracked
 
 ---
 
 ### Tracking Changes
+`git git git`
